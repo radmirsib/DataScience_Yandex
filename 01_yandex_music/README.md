@@ -32,7 +32,7 @@
 
 ## Стек технологий:
 
-Pandas, jupyter notebook
+Python, Pandas, Jupyter Notebook
 
 ## Статус проекта:
 
